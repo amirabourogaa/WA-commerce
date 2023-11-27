@@ -1,7 +1,7 @@
-# Maltimart Ecommerce
+# WA Commerce
 
 ## 📌 Live Demo
-https://multimart-ecommerce.onrender.com
+https://wa-commerce.vercel.app/
 
 ## 😎 Features
 

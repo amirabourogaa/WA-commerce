@@ -7,7 +7,6 @@ import productImg04 from "../Images/puffs/gallery-4.jpg";
 import productImg05 from "../Images/puffs/gallery-5.jpg";
 import productImg06 from "../Images/puffs/gallery-6.jpg";
 import productImg07 from "../Images/puffs/gallery-7.jpg";
-import productImg08 from "../Images/puffs/gallery-8.jpg";
 import productImg09 from "../Images/puffs/gallery-9.jpg";
 
 
@@ -59,10 +58,10 @@ export const serviceData = [
 export const discoutProducts = [
   {
     id: "01",
-    productName: "Stone and Beam Westview ",
+    productName: "Puff jettable ",
     imgUrl: productImg01,
     category: "Puff",
-    price: 193,
+    price: 70,
     discount:30,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
@@ -78,10 +77,10 @@ export const discoutProducts = [
   } ,
   {
     id: "09",
-    productName: "Stone and Beam Westview ",
+    productName: "Puff jettable ",
     imgUrl: productImg09,
     category: "Puff",
-    price: 193,
+    price: 70,
     discount:10,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
@@ -103,7 +102,7 @@ export const products = [
     productName: "Puff jettable ",
     imgUrl: productImg01,
     category: "Puff",
-    price: 193,
+    price: 70,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -121,7 +120,7 @@ export const products = [
     productName: "Puff jettable ",
     imgUrl: productImg02,
     category: "Puff",
-    price: 193,
+    price: 70,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -139,7 +138,7 @@ export const products = [
     productName: "Puff jettable ",
     imgUrl: productImg03,
     category: "Puff",
-    price: 193,
+    price: 70,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -157,7 +156,7 @@ export const products = [
     productName: "Puff jettable ",
     imgUrl: productImg04,
     category: "Puff",
-    price: 193,
+    price: 70,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -175,7 +174,7 @@ export const products = [
     productName: "Puff jettable ",
     imgUrl: productImg05,
     category: "Puff",
-    price: 193,
+    price: 70,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -193,7 +192,7 @@ export const products = [
     productName: "Puff jettable ",
     imgUrl: productImg06,
     category: "Puff",
-    price: 193,
+    price: 70,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -211,7 +210,7 @@ export const products = [
     productName: "Puff jettable ",
     imgUrl: productImg07,
     category: "Puff",
-    price: 193,
+    price: 70,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
